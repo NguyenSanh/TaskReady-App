@@ -2,7 +2,7 @@
 
 TaskReady is a current in-production app built with the Angular framework (version 14). The web app serves as a handy task tracking software for all users.
 
-![App Preview](Index_Page.png)
+![App Preview](AppScreenshots/Index_Page.png)
 
 # Software Used
 - Angular 14 (frontend)
